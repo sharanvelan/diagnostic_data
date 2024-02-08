@@ -1,0 +1,4 @@
+#Mon Jan 29 13:05:13 IST 2024
+base.0=/home/sharanvelan/flutter/diagnostic_data/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
